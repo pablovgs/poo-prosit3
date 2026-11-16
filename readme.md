@@ -76,23 +76,11 @@ La structure cible est la suivante :
 │       ├── Point.hpp
 │       ├── Forme.hpp
 │       ├── Cercle.hpp
+│       ├── main.cpp
 │       ├── Polygone.hpp
 │       ├── Triangle.hpp
 │       ├── Rectangle.hpp
 │       └── Carre.hpp
-├── src/
-│   ├── Point.cpp
-│   ├── Cercle.cpp
-│   ├── Polygone.cpp
-│   ├── Triangle.cpp
-│   ├── Rectangle.cpp
-│   └── Carre.cpp
-├── tests/
-│   ├── PointTests.cpp
-│   ├── CercleTests.cpp
-│   ├── TriangleTests.cpp
-│   ├── RectangleTests.cpp
-│   └── CarreTests.cpp
 └── docs/
     ├── diagramme-classes.md
     └── diagramme-sequence.md
